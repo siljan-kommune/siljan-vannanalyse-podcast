@@ -10,9 +10,10 @@
     <copyright>2026 Siljan Kommune</copyright>
     <itunes:author>Siljan Kommune</itunes:author>
     <itunes:summary>Resultater fra drikkevannsprøver for Siljan kommune</itunes:summary>
+    <itunes:image href="https://siljan-kommune.github.io/siljan-vannanalyse-podcast/podcast_cover.png"/>
     <itunes:owner>
-      <itunes:name>Siljan Kommune</itunes:name>
-      <itunes:email>postmottak@siljan.kommune.no</itunes:email>
+      <itunes:name>Vegard Myrvang</itunes:name>
+      <itunes:email>vegard.myrvang@siljan.kommune.no</itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
@@ -22,11 +23,12 @@
       <title>Vannanalyse 14. januar 2026</title>
       <link>https://siljan-kommune.github.io/siljan-vannanalyse-podcast/2026/vannanalyse_20260114_0929.mp3</link>
       <description>Vannanalyse for Siljan kommune datert 5. januar 2026. Prøvesteder: Skisjø HB rent og Snurråsen nettvann. Alle parametere innenfor drikkevannsforskriftens grenseverdier.</description>
-      <enclosure url="https://siljan-kommune.github.io/siljan-vannanalyse-podcast/2026/vannanalyse_20260114_0929.mp3" type="audio/mpeg"/>
+      <enclosure url="https://siljan-kommune.github.io/siljan-vannanalyse-podcast/2026/vannanalyse_20260114_0929.mp3" type="audio/mpeg" length="0"/>
       <guid>vannanalyse_20260114_0929</guid>
       <pubDate>Tue, 14 Jan 2026 09:29:00 +0100</pubDate>
       <itunes:duration>0:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://siljan-kommune.github.io/siljan-vannanalyse-podcast/podcast_cover.png"/>
     </item>
     
   </channel>
