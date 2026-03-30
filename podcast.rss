@@ -25,6 +25,16 @@
     
     
     
+    
+    <item>
+      <title>Spesialepisode: Forklaring av analyseparametere (oppdatert)</title>
+      <link>https://siljan-kommune.github.io/siljan-vannanalyse-podcast/2026/vannanalyse_parametere_forklart_v2.mp3</link>
+      <description>I denne episoden forklarer vi hva de ulike parameterne i vannanalysene betyr: E.coli, koliforme bakterier, intestinale enterokokker, kimtall, Clostridium perfringens, pH, turbiditet, fargetall, alkalitet, lukt, smak, aluminium og jern. Basert på informasjon fra Folkehelseinstituttet og Mattilsynet.</description>
+      <enclosure url="https://siljan-kommune.github.io/siljan-vannanalyse-podcast/2026/vannanalyse_parametere_forklart_v2.mp3" type="audio/mpeg" length="1969632"/>
+      <guid>vannanalyse_parametere_forklart_v2</guid>
+      <pubDate>Mon, 30 Mar 2026 09:10:42 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Vannanalyse 24. mars 2026</title>
       <link>https://siljan-kommune.github.io/siljan-vannanalyse-podcast/2026/vannanalyse_2026-03-24.mp3</link>
