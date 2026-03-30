@@ -22,6 +22,16 @@
     
     
     
+    
+    <item>
+      <title>Vannanalyse 20. januar 2026</title>
+      <link>https://siljan-kommune.github.io/siljan-vannanalyse-podcast/2026/vannanalyse_2026-01-20.mp3</link>
+      <description>Vannanalyse for Siljan kommune. Prøvetakingsdato: 20. januar 2026. Prøvesteder: Skisjø HB rent, Kommunehuset nett. Alle parametere innenfor drikkevannsforskriftens grenseverdier.</description>
+      <enclosure url="https://siljan-kommune.github.io/siljan-vannanalyse-podcast/2026/vannanalyse_2026-01-20.mp3" type="audio/mpeg" length="482832"/>
+      <guid>vannanalyse_2026-01-20</guid>
+      <pubDate>Mon, 30 Mar 2026 08:44:01 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Spesialepisode: Forklaring av analyseparametere</title>
       <link>https://siljan-kommune.github.io/siljan-vannanalyse-podcast/2026/vannanalyse_parametere_forklart.mp3</link>
